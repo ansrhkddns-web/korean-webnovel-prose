@@ -1,0 +1,7 @@
+interface:
+  display_name: "Korean Webnovel Prose"
+  short_description: "한국 웹소설 문체·대화·회차 품질 고도화"
+  default_prompt: "Use $korean-webnovel-prose to draft or revise a Korean webnovel scene with consistent style, dialogue, and episode hooks."
+
+policy:
+  allow_implicit_invocation: true
