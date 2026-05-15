@@ -14,6 +14,28 @@ Each episode should:
 4. Deliver one visible reward or reversal.
 5. Leave one sharper unresolved pressure.
 
+## Reference-Reading Findings
+
+Strong chapters are built less like essays and more like transactions. The reader gives attention; the chapter pays with a concrete change.
+
+Common reference opening engines:
+
+- thesis opening: a sharp claim about life, power, money, school, survival, or the world;
+- ordinary routine breach: commute, class, work, meal, game, or delivery is interrupted by genre;
+- system shock: message, tutorial, status, rank, quest, or reward appears before the character understands it;
+- social pressure: insult, rumor, workplace hierarchy, public gaze, or family rank forces a response;
+- sensory danger: blood, smell, silence, monster trace, ruin, weather, or pain starts the scene.
+
+Common reference ending engines:
+
+- reward with cost;
+- new name or enemy;
+- public misunderstanding;
+- message or call;
+- door, gate, stage, floor, or route opening;
+- witness seeing the wrong thing;
+- protagonist making a dangerous choice.
+
 ## Scene Beat Template
 
 ```text
@@ -35,6 +57,18 @@ Next-click question:
 - Material: money, contract, territory, food, weapon, medicine.
 - Emotional: confession, betrayal, apology, resolve, relationship change.
 - Survival: safe route, shelter, antidote, escape, recovered body function.
+
+## Reward-Cost Pairing
+
+Most satisfying rewards carry a hook:
+
+- a skill rises, but something notices;
+- evidence appears, but the wrong person sees it;
+- a deal succeeds, but a larger stakeholder enters;
+- a monster dies, but the corpse proves a bigger breach;
+- a social win lands, but a new frame starts.
+
+Do not let a reward cool the chapter completely.
 
 ## Strong Ending Buttons
 

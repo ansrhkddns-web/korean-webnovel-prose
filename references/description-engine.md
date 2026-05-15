@@ -10,6 +10,18 @@ Description is not decoration. It must help the reader understand action, danger
 
 Pick one primary description axis per scene and one secondary axis only when needed.
 
+## Reference-Reading Findings
+
+Strong reference prose does not describe everything in the room. It chooses the one detail that changes the protagonist's next action.
+
+The most reusable pattern is:
+
+1. Notice one concrete detail.
+2. Let the detail imply danger, value, status, or shame.
+3. Make the protagonist act, hesitate, lie, attack, or calculate because of it.
+
+If a description does not change the next action, cut it or turn it into a shorter phrase.
+
 ## Description Axes
 
 ### Body Sense
@@ -37,6 +49,8 @@ Pattern: detection -> doubt -> confirmation -> decision.
 Use for status windows, items, skills, tools, weapons, contracts, documents, or money.
 
 Pattern: readout -> usefulness -> cost/risk -> desire.
+
+Reference works often place the emotional hook after the readout. A status message, contract number, rank, or item name becomes interesting only after the protagonist realizes what it allows, threatens, proves, or costs.
 
 ### Social Gaze
 
