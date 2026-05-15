@@ -64,13 +64,37 @@ Use ordinary dialogue quotation marks for spoken lines and recorded speech:
 
 ## Sound And Hard Beats
 
-Use standalone sound lines sparingly.
+Use standalone sound lines sparingly. When a sound effect stands alone, do not add a final period. Repeated sounds use commas instead of period-stacking.
 
 ```text
-쿵.
+‘쿵’
+‘드륵, 드르륵’
+‘척, 척, 척’
 ```
 
 Do not overuse sound effects as substitutes for action consequences.
+
+## Standalone Terms
+
+Standalone item names, status terms, file labels, and one-word emphasis lines do not take a final period. If the line needs a period, turn it into an ordinary sentence instead.
+
+```text
+“마나석 조각”
+비권장
+균열생물
+```
+
+Prefer:
+
+```text
+포션이라는 단어였다.
+```
+
+Over:
+
+```text
+포션.
+```
 
 ## Upload Cleanup
 
