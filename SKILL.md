@@ -30,8 +30,9 @@ Default to Korean unless the user asks otherwise. Preserve canon, names, setting
 - `references/naver-format.md`: status windows, memo, chat, system, sound, and upload-safe manuscript notation.
 - `references/revision-rubric.md`: diagnosis checklist and rewrite protocol.
 - `references/reference-reading-methods.md`: craft patterns derived from direct reading of the local reference corpus.
+- `references/geukak-seosaeng-craft.md`: deep craft analysis of the nine-volume Geukak Seosaeng reference, generalized into reusable immersion, voice, dialogue, comedy, action, and progression techniques.
 
-For a substantial chapter, serious rewrite, or style-unification request, read `reference-reading-methods.md`, `style-system.md`, `episode-engine.md`, and the most relevant one of `dialogue-voice.md`, `description-engine.md`, or `genre-persona.md`.
+For a substantial chapter, serious rewrite, or style-unification request, read `reference-reading-methods.md`, `style-system.md`, `episode-engine.md`, and the most relevant one of `dialogue-voice.md`, `description-engine.md`, `genre-persona.md`, or `geukak-seosaeng-craft.md`.
 
 ## Default Prose Rules
 

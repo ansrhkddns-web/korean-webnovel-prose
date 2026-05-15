@@ -107,3 +107,30 @@ Do not let a reward cool the chapter completely.
 - Avoid two consecutive chapters with only school/social pressure if the main promise is dungeon/system.
 - Keep reward debt visible: if a promise is delayed, give a smaller adjacent payoff.
 - Track what the reader is waiting for and pay one thing off every chapter or two.
+
+## Layered Errand Arc
+
+Use this for long serial momentum when the chapter appears casual but the plot must keep moving.
+
+Surface task:
+
+- travel;
+- disguise;
+- train someone;
+- meet a local figure;
+- investigate a report;
+- attend a gathering;
+- retrieve a tool or clue;
+- handle a social misunderstanding.
+
+Hidden engine:
+
+- identity risk;
+- faction movement;
+- reputation snowball;
+- old debt;
+- emotional promise;
+- stronger enemy;
+- return-home or larger-world tension.
+
+The reader should enjoy the immediate errand while feeling that the larger board is moving under it.

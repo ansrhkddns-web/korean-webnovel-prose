@@ -67,3 +67,16 @@ Do not imitate any specific author. Use genre promises, reward rhythms, and scen
 Pick one main promise and one support flavor.
 
 Example: dungeon + school means school pressure should push the protagonist into dungeon action or make dungeon rewards useful in school. Do not let support flavor replace the main promise for more than one chapter.
+
+## Modern-In-Old-World / Reputation Comedy
+
+Use this mode when the story needs a protagonist whose inner voice is ordinary, modern, scared, petty, or self-mocking while the outside world reads him as mysterious, dangerous, noble, monstrous, or brilliant.
+
+- Promise: the reader enjoys both the real motive and the public misunderstanding.
+- Opening pressure: the protagonist wakes into, enters, or is trapped inside a role whose reputation is larger than his inner self.
+- Mid reward: he survives by bluffing, using modern logic, exploiting genre knowledge, or leaning on a system/assistant.
+- Social reward: others misread his panic or convenience as confidence, cruelty, wisdom, or affection.
+- Ending hook: the false reputation creates a new duty, follower, enemy, debt, or emotional bond.
+- Required balance: comedy must touch danger or relationship. If it is only a joke, it does not build serial momentum.
+
+For detailed craft rules, read `geukak-seosaeng-craft.md`.

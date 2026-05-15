@@ -91,3 +91,15 @@ Keep messages short and dry. Do not wrap chat lines in quotation marks.
 - Does the line create pressure or reveal motive?
 - Does the line sound like spoken Korean, not a report?
 - Is the strongest line placed near the end of the exchange?
+
+## Misread Dialogue Engine
+
+Use this when a protagonist has a public mask, secret identity, hidden weakness, or inflated reputation.
+
+1. Give the protagonist a simple spoken line.
+2. Give the reader the private motive through inner monologue.
+3. Let the listener interpret the same line through fear, loyalty, love, hierarchy, rumor, or desire.
+4. Show a visible consequence: silence, kneeling, obedience, anger, embarrassment, rumor, or affection.
+5. Let the protagonist notice the misunderstanding and decide whether to correct it, exploit it, or run from it.
+
+This creates comedy and tension at the same time because the reader is inside the gap.
